@@ -1,4 +1,12 @@
-### Hi there 👋
+[![Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/immontilla)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/immontilla/)
+[![Repos Badge](https://badges.pufler.dev/repos/immontilla)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/immontilla)](https://badges.pufler.dev)
+
+![immontilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=immontilla&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immontilla)](https://github.com/immontilla/github-readme-stats)
 
 <!--
 **immontilla/immontilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
