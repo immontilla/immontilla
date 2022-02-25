@@ -8,7 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immontilla)](https://github.com/immontilla/github-readme-stats)
 
+<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=immontilla&cover_image=false&theme=default&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=immontilla&redirect=true)
+-->
 
 <!--
 **immontilla/immontilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
