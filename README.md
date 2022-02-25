@@ -1,8 +1,8 @@
-[![Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+[![Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](#)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/immontilla)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/immontilla/)
-[![Repos Badge](https://badges.pufler.dev/repos/immontilla)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/immontilla)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/immontilla)](https://github.com/immontilla?tab=repositories)
+[![Gists Badge](https://badges.pufler.dev/gists/immontilla)](https://gist.github.com/immontilla)
 
 ![immontilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=immontilla&show_icons=true)
 
