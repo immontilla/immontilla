@@ -4,9 +4,9 @@
 [![Repos Badge](https://badges.pufler.dev/repos/immontilla)](https://github.com/immontilla?tab=repositories)
 [![Gists Badge](https://badges.pufler.dev/gists/immontilla)](https://gist.github.com/immontilla)
 
-![immontilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=immontilla&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=immontilla&show_icons=true&hide_title=true)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immontilla)](https://github.com/immontilla/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immontilla&hide=javascript,html,css)](#)
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=immontilla&cover_image=false&theme=default&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=immontilla&redirect=true)
